@@ -1,0 +1,8 @@
+---
+- name: Ping EC2 Instance
+  hosts: my-hosts
+
+  tasks:
+    - name: Ping the EC2 Instance
+      ping:
+        hostname: 3.79.61.241

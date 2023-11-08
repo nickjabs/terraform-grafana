@@ -1,0 +1,13 @@
+Project Title: Grafana AWS CloudWatch Integration
+
+Description:
+
+  This repository contains the code and configuration files for setting up Grafana
+ in an EC2 instance and connecting it to AWS CloudWatch for monitoring and visualization 
+ of metrics. The project is part of a learning exercise to gain proficiency in Terraform
+  and Ansible while exploring Grafana's capabilities.
+
+  day 1 - established the foundational infrastructure for the project using Terraform.
+   This included creating a Virtual Private Cloud (VPC), a public subnet, and launching an EC2
+    instance. Ensured secure access via SSH and Grafana ports while following best practices
+     for handling sensitive data and maintaining clear documentation.
